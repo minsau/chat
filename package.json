@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Este es un chat de prueba para aprender a usar web sockets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minsau/chat.git"
+  },
+  "keywords": [
+    "chat",
+    "nuevo",
+    "prueba",
+    "aprendiendo"
+  ],
+  "author": "minsau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minsau/chat/issues"
+  },
+  "homepage": "https://github.com/minsau/chat#readme"
+}
